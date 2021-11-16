@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\content"
+		},
+		{
+			"path": "..\\components"
+		},
+		{
+			"path": "..\\layouts"
+		},
+		{
+			"path": "..\\..\\nuxt-blog\\components"
+		},
+		{
+			"path": "..\\..\\nuxt-blog\\content"
+		},
+		{
+			"path": "..\\..\\nuxt-blog\\layouts"
+		},
+		{
+			"path": "..\\..\\nuxt-blog\\pages"
+		}
+	],
+	"settings": {}
+}
